@@ -18,7 +18,7 @@
 ![image](https://github.com/user-attachments/assets/19f01de7-4343-42f5-83f4-ae7ba9f5c57a)
 ![image](https://github.com/user-attachments/assets/e09211b9-37f8-45ad-9e44-3f45f7227e76)
 
-### Files 3_5_1 - 3_5_5.vi
+### Files 3_5_1.vi - 3_5_5.vi
 ![image](https://github.com/user-attachments/assets/abd90d65-2593-4916-89bc-516cbdc19622)
 ![image](https://github.com/user-attachments/assets/6dfeac98-e296-4ba1-8acf-42f86e686801)
 ![image](https://github.com/user-attachments/assets/40285f14-81d0-42ec-9076-60efb9b6dddc)
